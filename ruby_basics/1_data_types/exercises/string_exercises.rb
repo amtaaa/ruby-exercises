@@ -19,7 +19,7 @@ def capitalize(word)
 end
 
 def uppercase(string)
-  # uppercase all letters in  the string
+  # uppercase all letters in the string
   string.upcase
 end
 
